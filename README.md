@@ -4,8 +4,8 @@ A robust, machine learning-powered web application that predicts whether a Formu
 
 ## 📸 Screenshots
 
-![F1 Predictor UI](screenshot_1.png)
-![F1 Predictor Result](screenshot_2.png)
+![F1 Predictor UI](screenshot.png)
+
 
 ## 🚀 Features
 
