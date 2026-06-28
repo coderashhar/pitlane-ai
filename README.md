@@ -1,4 +1,4 @@
-# 🏁 F1 Pit Stop Predictor
+# 🏁 Pitlane AI
 
 A robust, machine learning-powered web application that predicts whether a Formula 1 driver will pit on the next lap based on live race telemetry.
 
